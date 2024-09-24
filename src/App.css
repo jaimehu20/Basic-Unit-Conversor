@@ -135,6 +135,10 @@ main {
     font-weight: 700;
 }
 
+.favorites-box p {
+        text-align: center;
+}
+
 .favorite-item {
     display: flex;
     align-items: center;
