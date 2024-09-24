@@ -171,3 +171,46 @@ footer span {
     display: flex;
     gap: 10px;
 }
+
+@media only screen and (max-width: 1920px) { 
+    nav div {
+        width: auto;
+        margin: 0;
+        padding-left: 15px;
+    }
+
+    nav p {
+        margin: 10px 0px;
+    }
+
+    .conversion-box {
+        width: 70%;
+        padding: 0px 30px 18px 30px;
+        height: fit-content;
+        max-width: 503px;
+    }
+
+    .conversion-box-main {
+        flex-direction: column;
+        gap: 20px;
+    }
+
+    .conversion-box-results {
+        width: auto;
+    }
+
+    .favorites-box {
+        width: auto;
+        max-width: 719px;
+    }
+
+    .favorites-box h1 {
+        text-align: center;
+    }
+
+    .favorite-item {
+        width: 60%;
+        margin: 0 auto;
+        margin-bottom: 20px;
+    }
+}

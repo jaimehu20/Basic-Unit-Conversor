@@ -6,8 +6,8 @@ export const Footer : React.FC = () => {
         <footer>
             <div>
                 <span>© 2024 
-                    <a href="https://jaimehurtado-porfolio.netlify.app/" > Jaime Hurtado</a>
-                     . Made with <Heart />
+                    <a href="https://jaimehurtado-porfolio.netlify.app/" > Jaime Hurtado.</a>
+                     Made with <Heart />
                 </span>
             </div>
         </footer>
